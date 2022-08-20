@@ -7,7 +7,7 @@
 
 ## 聲學迴聲消除器
 
-![image](picture or gif url)
+![image](https://github.com/kohsin520/AEC-/blob/main/v2-15cce9ef1dcc1366be298b94aaba87f7_1440w.jpeg)
 
 
 ## REFERENCE
